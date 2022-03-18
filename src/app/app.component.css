@@ -1,0 +1,31 @@
+table {
+  width: 100%;
+  padding: 20px;
+}
+#login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 21x red;
+  height: 100vh;
+}
+button{
+  margin-left: 80px;
+  background-color: #32a852;
+  padding: 7px 25px;
+}
+mat-card-title{
+  margin-left: 55px;
+  padding: 10px 20px;
+  padding-top: 20px;
+}
+.dashboard{
+  text-align: center;
+}
+.searchbar{
+  padding: 10px;
+  margin: 10px 20px;
+}
+.textvalidate{
+  padding: 10px 50px;
+}
