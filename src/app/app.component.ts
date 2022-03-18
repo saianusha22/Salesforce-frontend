@@ -12,8 +12,8 @@ import { HttpClient } from '@angular/common/http';
 export class AppComponent {
 
   isValidated:boolean = false;
-  email:string = "rahul@testorg.com";
-  mobileno:string = "223232";
+  email:string = "";
+  mobileno:string = "";
   emplyeeDataLength:number = 0;
   search:any="";
   error:boolean = false;

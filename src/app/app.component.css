@@ -29,3 +29,12 @@ mat-card-title{
 .textvalidate{
   padding: 10px 50px;
 }
+
+.error {
+  padding: 16px;
+  width: 233px;
+  height: 15px;
+  color: white;
+  background-color: red;
+}
+
